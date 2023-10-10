@@ -1,2 +1,2 @@
 # CypressWithCucumber
-This is for API Automation Framework using Cypress+Cucumber
+This is for Automation Framework using Cypress+Cucumber
